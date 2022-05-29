@@ -8,7 +8,7 @@
 ## About the Project
 
 Car Hub is a web based application designed to predict the price of a car based upon the provided dataset. It is build to handle and visualise the data for an automotive industry. 
-
+I am a complete beginner in data analysis but thanks to kaggle. I have trained a model and pickled it to use it with outputs entered by the user.
 
 ## Tech Stack
 
@@ -56,8 +56,11 @@ Car Hub is a web based application designed to predict the price of a car based 
 ```
 - Also create the templates folder and the static folder for your templates and static files and you are good to go.
 - Create a folder by the name of data analysis to add the dataset and the data analysis file to run the code.
+- The folder structure should like this and you are good to go.
+ Here is![Screenshot (111)](https://user-images.githubusercontent.com/83695478/170877082-3d218979-70f8-474c-aa95-45917d375d35.png)
 - It would be a good practice to first do the analysis part on a notebook like google colab etc.
-- Here is the link for my data analysis part - https://colab.research.google.com/drive/17BqyXG_bBxdXMvJaNw9Pcx0aoMdfy4kT?usp=sharing
+-the link for my data analysis part - https://colab.research.google.com/drive/17BqyXG_bBxdXMvJaNw9Pcx0aoMdfy4kT?usp=sharing
+
 ### Packages to be installed
 - Pandas - python
 ```bash
