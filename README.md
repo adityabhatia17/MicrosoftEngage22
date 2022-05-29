@@ -86,11 +86,12 @@ I am a complete beginner in data analysis but thanks to kaggle. I have trained a
 ```bash
   pip install -U scikit-learn
 ```
-
-
+## LOGO:
+![logo](https://user-images.githubusercontent.com/83695478/170877346-8ca59704-d09c-4320-99a9-4ba50f36c7bf.png)
 
 ## Contact
 - Name: Aditya Bhatia
 - Email: adityabhatia1704@gmail.com
 - LinkedIn:https://www.linkedin.com/in/aditya-bhatia-9a2b04208/
 - Instagram: @adityaabhatiaa
+- Website: www.adityabhatia.in
